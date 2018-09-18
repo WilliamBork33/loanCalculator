@@ -1,0 +1,15 @@
+.card {
+  background-color: aquamarine;
+}
+
+h1 {
+  font-style: italic;
+  text-decoration-style: dotted;
+  text-decoration-line: underline;
+}
+
+h5 {
+  text-align: center;
+  font-size: 12px;
+  color: whitesmoke;
+}
